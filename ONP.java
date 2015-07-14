@@ -10,7 +10,6 @@ import java.util.Stack;
  *
  */
 public class ONP {
-	
 	public static void main(String[] args) {
 		Scanner in = new Scanner(System.in);
 		int lines = in.nextInt();
