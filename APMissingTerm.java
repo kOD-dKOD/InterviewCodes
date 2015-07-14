@@ -98,5 +98,5 @@ private static int findMissingNumber(int[] ap) {
 		}
 	}
 	return missingNumber;
-}
+ }
 }
