@@ -1,4 +1,4 @@
-package com.java.test;
+package com.algo.java;
 
 import java.util.ArrayList;
 import java.util.HashMap;
